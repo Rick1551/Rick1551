@@ -2,9 +2,17 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Rick1551">Ricardo Saldaña</a> 👋</h1>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/Rick1551?style=social)](https://github.com/Rick1551)
+---
+## 👨‍💻 About Me
+
+- 🔧 Embedded systems developer (STM32, ARM Cortex M3)
+- 💻 C++ enthusiast with focus on modular architecture and design patterns
+- 🧠 Qt desktop app developer (signals/slots, UI design)
+- 🐧 Linux user and virtualization explorer (Ubuntu, WSL, VirtualBox)
+- 📦 Git workflow practitioner for professional project management
 
 ---
+
 ## 🧰 Technologies I Use
 
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
@@ -20,16 +28,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-0C0C0C?logo=windows-terminal&logoColor=white)
-![minicom](https://img.shields.io/badge/minicom-4EAA25?logo=gnu-bash&logoColor=white)
-
----
-## 👨‍💻 About Me
-
-- 🔧 Embedded systems developer (STM32, ARM Cortex M3)
-- 💻 C++ enthusiast with focus on modular architecture and design patterns
-- 🧠 Qt desktop app developer (signals/slots, UI design)
-- 🐧 Linux user and virtualization explorer (Ubuntu, WSL, VirtualBox)
-- 📦 Git workflow practitioner for professional project management
 
 ---
 
