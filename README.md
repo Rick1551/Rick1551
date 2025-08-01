@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Rick1551">Ricardo Saldaña</a> 👋</h1>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
+[![GitHub followers](https://img.shields.io/github/followers/Rick1551?style=social)](https://github.com/Rick1551)
 
 ---
 
