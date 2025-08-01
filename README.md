@@ -5,7 +5,24 @@
 [![GitHub followers](https://img.shields.io/github/followers/Rick1551?style=social)](https://github.com/Rick1551)
 
 ---
+## 🧰 Technologies I Use
 
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-003366?logo=stmicroelectronics&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![WSL](https://img.shields.io/badge/WSL-4EAA25?logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-003366?logo=stmicroelectronics&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?logo=platformio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-0C0C0C?logo=windows-terminal&logoColor=white)
+![minicom](https://img.shields.io/badge/minicom-4EAA25?logo=gnu-bash&logoColor=white)
+
+---
 ## 👨‍💻 About Me
 
 - 🔧 Embedded systems developer (STM32, ARM Cortex M3)
