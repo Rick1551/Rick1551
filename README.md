@@ -104,7 +104,7 @@
 ## 📜 Certifications & Learning
 
 - 🐧 Ubuntu Linux Professional Certificate (Canonical)
-- 🧠 OpenDG C++ Certification
+- 🧠 OpenEDG C++ Certification
 
 ---
 
