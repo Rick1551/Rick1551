@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://github.com/TU_USUARIO">Ricardo</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Rick1551">Ricardo Saldaña</a> 👋</h1>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)](https://github.com/TU_USUARIO)
@@ -24,10 +24,10 @@
 <h3 align="center">NoteManager</h3>
 <div align="center">
 <p>
-<a href="https://github.com/TU_USUARIO/NoteManager" target="_blank">
+<a href="https://github.com/Rick1551/NoteManager" target="_blank">
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B">
 </a>
-<a href="https://github.com/TU_USUARIO/NoteManager" target="_blank">
+<a href="https://github.com/Rick1551/NoteManager" target="_blank">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt">
 </a>
 </p>
@@ -39,10 +39,10 @@
 <h3 align="center">Task Manager GUI</h3>
 <div align="center">
 <p>
-<a href="https://github.com/TU_USUARIO/TaskManagerGUI" target="_blank">
+<a href="https://github.com/Rick1551/TaskManagerGUI" target="_blank">
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B">
 </a>
-<a href="https://github.com/TU_USUARIO/TaskManagerGUI" target="_blank">
+<a href="https://github.com/Rick151/TaskManagerGUI" target="_blank">
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt">
 </a>
 </p>
