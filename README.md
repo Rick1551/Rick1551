@@ -113,7 +113,7 @@
 
 <p align="center">
 <a href="https://github.com/Rick1551">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rick1551&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1551&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rick1551&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1551&layout=compact&langs_count=8&theme=dracula&cache_seconds=1800"/>
 </a>
 </p>
