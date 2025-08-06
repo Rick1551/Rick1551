@@ -117,3 +117,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick1551&layout=compact&langs_count=8&theme=github_dark_dimmed&cache_seconds=1800"/>
 </a>
 </p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Rick1551/practice-it-cpp-common-data-structures-3269044" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=practice-it-cpp-common-data-structures-3269044&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Rick1551/cpp-design-patterns-structural-4360277" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=cpp-design-patterns-structural-4360277&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Rick1551/TaskManagerGUI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=TaskManagerGUI&theme=github_dark_dimmed" />
+  </a>
+  <a href="https://github.com/Rick1551/learning-linux-command-line-3005201" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=GameQt-3005201&theme=github_dark_dimmed" />
+  </a>
+</p>
