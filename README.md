@@ -132,7 +132,7 @@
   <a href="https://github.com/Rick1551/TaskManagerGUI" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=TaskManagerGUI&theme=github_dark_dimmed" />
   </a>
-  <a href="https://github.com/Rick1551/learning-linux-command-line-3005201" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=GameQt-3005201&theme=github_dark_dimmed" />
+  <a href="https://github.com/Rick1551/GameQt" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick1551&repo=GameQt&theme=github_dark_dimmed" />
   </a>
 </p>
