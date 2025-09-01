@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://github.com/Rick1551">Ricardo Saldaña</a> 👋</h1>
+<h2 align="cente"> let's work together </h2>
 </div>
 
 ---
