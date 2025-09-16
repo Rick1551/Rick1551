@@ -106,7 +106,6 @@
 
 - 🐧 Ubuntu Linux Professional Certificate (Canonical)
 - 🧠 OpenEDG C++ Certification
-- Alura with Oracle Next Education
 
 ---
 
